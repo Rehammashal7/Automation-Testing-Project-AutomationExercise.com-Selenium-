@@ -1,0 +1,14 @@
+{
+  "validUser": {
+    "email": "reham17235@gmail.com",
+    "password": "Reham@123"
+  },
+  "invalidPasswordUser": {
+    "email": "reham17235@gmail.com",
+    "password": "Reham123"
+  },
+  "invalidEmailUser": {
+    "email": "wrong@gmail.com",
+    "password": "Reham@123"
+  }
+}

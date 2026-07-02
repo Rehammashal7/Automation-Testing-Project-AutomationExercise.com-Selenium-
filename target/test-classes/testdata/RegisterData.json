@@ -1,0 +1,39 @@
+{
+  "fullRegisterUser": {
+    "name": "Abdelrahman Osama",
+    "email": "abdelrahmanosama7699@gmail.com",
+    "password": "a123456789",
+    "days": 10,
+    "month": "12",
+    "year": "2002",
+    "firstName": "Abdelrahman",
+    "lastName": "Osama",
+    "company": "Itworx",
+    "address1": "Elgiza",
+    "address2": "Cairo",
+    "country": "India",
+    "state": "Egypt",
+    "city": "Cairo",
+    "zipCode": "17611",
+    "mobileNumber": "01013440554"
+  },
+
+  "mandatoryUser": {
+    "name": "Abdelrahman Osama",
+    "email": "abdelrahmannew@gmail.com",
+    "password": "a123456789",
+    "firstName": "Abdelrahman",
+    "lastName": "Osama",
+    "address1": "Elgiza",
+    "country": "India",
+    "state": "Egypt",
+    "city": "Cairo",
+    "zipCode": "17611",
+    "mobileNumber": "01013440554"
+  },
+
+  "existingUser": {
+    "name": "Abdelrahman Osama",
+    "email": "abdelrahmanosama769@gmail.com"
+  }
+}
